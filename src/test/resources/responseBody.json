@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "result": {
+    "total": 5,
+    "filtered": 5,
+    "count": 5,
+    "entities": [
+      {
+        "title": "Demo Project",
+        "code": "DEMO",
+        "counts": {
+          "cases": 10,
+          "suites": 3,
+          "milestones": 2,
+          "runs": {
+            "total": 0,
+            "active": 0
+          },
+          "defects": {
+            "total": 0,
+            "open": 0
+          }
+        }
+      },
+      {
+        "title": "QASE",
+        "code": "QA",
+        "counts": {
+          "cases": 1,
+          "suites": 0,
+          "milestones": 0,
+          "runs": {
+            "total": 0,
+            "active": 0
+          },
+          "defects": {
+            "total": 2,
+            "open": 2
+          }
+        }
+      },
+      {
+        "title": "Qase_DEMO",
+        "code": "QA22",
+        "counts": {
+          "cases": 0,
+          "suites": 0,
+          "milestones": 0,
+          "runs": {
+            "total": 0,
+            "active": 0
+          },
+          "defects": {
+            "total": 2,
+            "open": 2
+          }
+        }
+      },
+      {
+        "title": "Qase_Diploma",
+        "code": "QD",
+        "counts": {
+          "cases": 0,
+          "suites": 0,
+          "milestones": 0,
+          "runs": {
+            "total": 0,
+            "active": 0
+          },
+          "defects": {
+            "total": 0,
+            "open": 0
+          }
+        }
+      },
+      {
+        "title": "QASE Homework",
+        "code": "QAHW",
+        "counts": {
+          "cases": 0,
+          "suites": 0,
+          "milestones": 0,
+          "runs": {
+            "total": 0,
+            "active": 0
+          },
+          "defects": {
+            "total": 0,
+            "open": 0
+          }
+        }
+      }
+    ]
+  }
+}
